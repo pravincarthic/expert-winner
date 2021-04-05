@@ -1,0 +1,16 @@
+h1{
+   color: rgba(0, 0, 197, 0.719); 
+}
+.grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
